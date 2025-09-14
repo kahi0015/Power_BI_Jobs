@@ -32,7 +32,7 @@ The project was developed by following a [video tutorial] authored by _Luke Baro
 
 ### Job Market View
 
-This dashboard provides an overview of the data jobs market, highlighting key performance indicators (KPIs) such as job counts, salary trends, and demand distribution. Users can quickly assess market dynamics and identify top roles and locations using interactive visuals.
+This dashboard provides an overview of the data jobs market and highlights key performance indicators (KPIs) such as job counts, salary trends, and demand distribution. Users can quickly assess market dynamics and identify top roles and locations using interactive visuals.
 
 ![Dashboard 1](/images/Data%20Jobs%20Dashboard_1.png)
 
